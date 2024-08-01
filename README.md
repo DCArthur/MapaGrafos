@@ -35,3 +35,7 @@ Ou se preferir, poderá utilizar a versão em produção deste [link](https://gr
 ---
 ## 🗺️ Layout
 ![layout](assets/mapa_grafos.png)
+
+## Autores
+- @imrooteodoro
+- @victorferrazms
